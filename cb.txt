@@ -1,2 +1,4 @@
 primera linea desde master
+primer linea en conflictiva real
 segunda linea desde master
+segunda linea en conflictiva real
